@@ -17,6 +17,10 @@
 
 ## Example Inference
 
+<img width="1798" height="1438" alt="Screenshot 2025-12-16 at 19-15-27 Z Image Turbo LoRA DLC - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/f67aca8c-85d6-44ca-976c-bb7ab3e4c5f9" />
+
+<img width="1344" height="1024" alt="image22" src="https://github.com/user-attachments/assets/14c1c882-f2ea-4f84-874f-bd0f2040aab5" />
+
 ---
 
 ## Prerequisites
