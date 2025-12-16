@@ -1,0 +1,12 @@
+git+https://github.com/huggingface/diffusers.git@refs/pull/12790/head
+huggingface_hub
+sentencepiece
+transformers
+torchvision
+accelerate
+kernels
+gradio
+spaces
+torch
+numpy
+peft
